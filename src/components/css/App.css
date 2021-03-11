@@ -1,0 +1,13 @@
+/* * {
+  border: 1px solid
+} */
+
+.app {
+  display: flex;
+  flex-direction: column;
+  place-items: Center;
+  background-color: #d9ddd6;
+  height: auto;
+}
+
+
